@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-netninja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdirafati/Bootstrap-NetNinja.git"
+  },
+  "keywords": [],
+  "author": "Mahdi Rafati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahdirafati/Bootstrap-NetNinja/issues"
+  },
+  "homepage": "https://github.com/mahdirafati/Bootstrap-NetNinja#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
